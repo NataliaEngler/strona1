@@ -26,9 +26,11 @@ Aby program napisał "Hello World!" musisz użyć `print("Hello World!"`
 Aby program obliczył ile punktów dostaniesz za zadania ze stepika użyj:
 ~~~
 def punkty(liczba_zdobytych_punktów,procent_z_kolokwium):
-   procent_z_kolokwium = procent_z_kolokwium // 100 #zamień na postać dziesiętną
+   procent_z_kolokwium = procent_z_kolokwium / 100 #zamień na postać dziesiętną
    wynik = liczba_zdobytych_punktów * procent_z_kolokwium
    return wynik
+
+print(punkty(150,60))
 ~~~
 
 ![kot.jpg](kot.jpg)
