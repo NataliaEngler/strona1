@@ -14,8 +14,8 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui ~~officia dese
 ## Przepis na kanapkę z szynką
 Kroki:
 1. Przygotowanie:
-   2. Wyjmij talerz
-   3. Wyjmij nóż
-   4. Weź kromkę chleba
-3. Posmaruj go masłem
-4. Dodaj plaster szynki
+   - Wyjmij talerz
+   - Wyjmij nóż
+   -   Weź kromkę chleba
+2. Posmruj go masłem
+3. Dodaj plaster szynki
