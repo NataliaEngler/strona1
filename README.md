@@ -17,5 +17,5 @@ Kroki:
    - Wyjmij talerz
    - Wyjmij nóż
    -   Weź kromkę chleba
-2. Posmruj go masłem
+2. Posmruj kromkę masłem
 3. Dodaj plaster szynki
