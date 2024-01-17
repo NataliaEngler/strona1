@@ -29,3 +29,5 @@ def punkty(liczba_zdobytych_punktów,procent_z_kolokwium):
    wynik = liczba_zdobytych_punktów * procent_z_kolokwium
    return wynik
 ~~~
+
+![kot.jpg](kot.jpg)
