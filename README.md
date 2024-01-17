@@ -19,3 +19,6 @@ Kroki:
    -   Weź kromkę chleba
 2. Posmruj kromkę masłem
 3. Dodaj plaster szynki
+
+##Kody
+Aby program napisał "Hello World!" musisz użyć `print("Hello World!"`
