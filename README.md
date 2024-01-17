@@ -20,6 +20,14 @@ Kroki:
 2. Posmruj kromkę masłem
 3. Dodaj plaster szynki
 
+## Lista kolorów
+- czerwony
+   - pomarańczowy
+   - żółty
+- niebieski
+- fioletowy
+- różowy
+
 ## Kody
 Aby program napisał "Hello World!" musisz użyć `print("Hello World!"`
 
