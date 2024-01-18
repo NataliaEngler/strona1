@@ -10,6 +10,7 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui ~~officia dese
 1. [Cytat](#cytat)
 2. [Lista](#lista)
 3. [Kody](#kody)
+4. [Tabelka](#tabelka)
 
 ## Inspirujący cytat {#cytat}
 
@@ -44,5 +45,10 @@ def punkty(liczba_zdobytych_punktów,procent_z_kolokwium):
 
 print(punkty(150,60))
 ~~~
+## Tabelka {#tabelka}
+| Nagłówek 1 | Nagłówek 2 | Nagłówek 3 |
+| :--------: | :--------: | :--------: |
+| Element 1  | Element 2  | Element 3  |
+| Element 4  | Element 5  | Element 6  |
 
 ![kot.jpg](kot.jpg)
